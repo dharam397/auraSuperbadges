@@ -1,0 +1,7 @@
+{
+  "salesforcedx-vscode-slds.file.scopeWithInSFDX": true,
+  "salesforcedx-vscode-core.enable-sobject-refresh-on-startup": true,
+  "salesforcedx-vscode-slds.enhancements.autoSuggest": true,
+  "salesforcedx-vscode-slds.enhancements.density": true,
+  "salesforcedx-vscode-slds.basic.bemNaming": true
+}
